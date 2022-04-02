@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+}
+h2 {
+    color: blue;
+}
+b {
+    color: red;
+}
+i {
+    color: blue;
+}
+p {
+    text-align: justify;
+}
+body {
+    text-align: center;
+    line-height: 30px;
+    text-indent: 25px;
+    width: 350px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
